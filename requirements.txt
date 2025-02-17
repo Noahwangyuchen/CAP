@@ -1,0 +1,9 @@
+accelerate
+git+https://github.com/openai/CLIP.git
+numpy
+pandas
+Pillow
+PyYAML
+requests
+tqdm
+urllib3
