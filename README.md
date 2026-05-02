@@ -140,19 +140,12 @@ CAP/
 ## Citation
 
 ```bibtex
-@InProceedings{pmlr-v267-wang25f,
-  title = {Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin},
-  author = {Wang, Yuchen and Bai, Xuefeng and Li, Xiucheng and Guan, Weili and Nie, Liqiang and Chen, Xinyang},
-  booktitle = {Proceedings of the 42nd International Conference on Machine Learning},
-  pages = {62357--62372},
-  year = {2025},
-  editor = {Singh, Aarti and Fazel, Maryam and Hsu, Daniel and Lacoste-Julien, Simon and Berkenkamp, Felix and Maharaj, Tegan and Wagstaff, Kiri and Zhu, Jerry},
-  volume = {267},
-  series = {Proceedings of Machine Learning Research},
-  month = {13--19 Jul},
-  publisher = {PMLR},
-  pdf = {https://raw.githubusercontent.com/mlresearch/v267/main/assets/wang25f/wang25f.pdf},
-  url = {https://proceedings.mlr.press/v267/wang25f.html}
+@inproceedings{
+wang2025handling,
+title={Handling Imbalanced Pseudolabels for Vision-Language Models with Concept Alignment and Confusion-Aware Calibrated Margin},
+author={Yuchen Wang and Xuefeng Bai and Xiucheng Li and Weili Guan and Liqiang Nie and Xinyang Chen},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
 }
 ```
 
