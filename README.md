@@ -10,10 +10,7 @@ CAP adapts CLIP-style vision-language models to downstream image classification 
 CAP combines concept alignment with a confusion-aware calibrated margin, and trains independent visual adapters for reliable concept-aligned pseudolabels and dynamically generated unlabeled-data pseudolabels.
 
 ## Paper
-
-- Paper: [PMLR](https://proceedings.mlr.press/v267/wang25f.html)
 - OpenReview: [QIL44dSUPo](https://openreview.net/forum?id=QIL44dSUPo)
-- Code: [github.com/Noahwangyuchen/CAP](https://github.com/Noahwangyuchen/CAP)
 
 ## Highlights
 
